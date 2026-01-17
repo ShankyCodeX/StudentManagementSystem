@@ -52,5 +52,4 @@ java -cp bin main.Main
 
 ## Author
 
-- **Goal**: Aspiring Tech Professional & GSoC 2026 Candidate.
 - **Current Status**: 6th Semester Computer Science Student.
